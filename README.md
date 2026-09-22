@@ -1,4 +1,11 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=gallifreyantic&style=flat&color=896633&label=years)
+![til](https://files.catbox.moe/y7tufq.gif)
+
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c4hrajmadi26v3dgjfslby4r6a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=210e16&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=ab5d33&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <!--
 **nuwho/nuwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
